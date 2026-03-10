@@ -35,14 +35,14 @@ export const projectsData = [
         title: "E-Commerce de Camisas Esportivas",
         description: "Plataforma completa de e-commerce integrada com Mercado Pago. Backend em Node.js e MongoDB para gerenciamento de estoque e pedidos.",
         tags: ["React", "Node.js", "MongoDB", "Tailwind"],
-        link: "https://loja-camisas-react.onrender.com",
+        link: "https://netfut.produtohub.com.br",
         github: "https://github.com/LucasTessinari/loja-camisas-react"
     },
     {
         title: "Portfólio Pessoal",
         description: "Portfólio desenvolvido com foco em performance e Clean Code. Arquitetura modular com componentes isolados, animações fluidas e deploy contínuo via Vercel.",
         tags: ["React", "Vite", "Tailwind v4", "Framer Motion"],
-        link: "https://portifolio.produtohub.com.br",
+        link: "https://portfolio.produtohub.com.br",
         github: "https://github.com/LucasTessinari/meu-portfolio"
     }
 ];
