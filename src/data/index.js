@@ -44,6 +44,27 @@ export const projectsData = [
         tags: ["React", "Vite", "Tailwind v4", "Framer Motion"],
         link: "https://portfolio.produtohub.com.br",
         github: "https://github.com/LucasTessinari/meu-portfolio"
+    },
+    {
+        title: "Landing Page para Dentista",
+        description: "Landing page desenvolvida para um dentista local, com foco em conversões e otimização de SEO.",
+        tags: ["React", "Vite", "Tailwind v4", "Framer Motion"],
+        link: "https://marcelo-sobreira.vercel.app/",
+        github: "https://github.com/LucasTessinari/marcelo-sobreira"
+    },
+    {
+        title: "Landing Page para Grupo de Promoções",
+        description: "Landing page desenvolvida para um grupo de promoções, com foco em conversões e otimização de SEO.",
+        tags: ["React", "Vite", "Tailwind v4", "Framer Motion"],
+        link: "https://pega-essa-promo-blush.vercel.app/",
+        github: "https://github.com/LucasTessinari/pega-essa-promo"
+    },
+    {
+        title: "E-commer de Peças de Carros Premium",
+        description: "Plataforma de e-commerce especializada em peças de carros premium, com foco em experiência do usuário e otimização de conversões.",
+        tags: ["JavaScript", "HTML", "CSS"],
+        link: "https://www.virtusauto.com.br/",
+        github: ""
     }
 ];
 
